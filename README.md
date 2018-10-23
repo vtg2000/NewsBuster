@@ -1,2 +1,2 @@
 # NewsBuster
-Repo for the Enroot Hackathon
+Repo for the Enroot Hackathon.
